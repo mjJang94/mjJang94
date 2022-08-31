@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=JangMinJong&fontSize=60&animation=twinkling)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wkdalswhd94)](https://solved.ac/wkdalswhd94)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdalswhd94)](https://solved.ac/wkdalswhd94) 
 
 <h3 align="center">Tech Stack</h3>
 
