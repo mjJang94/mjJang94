@@ -34,6 +34,5 @@
 <p align="center">
   <a href="https://alswhddl10.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://alswhddl10.tistory.com/"/></a>&nbsp
   <a href="alswhddl10@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=alswhddl10@naver.com"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FmjJang94&count_bg=%230069FF&title_bg=%23028BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 <br>
